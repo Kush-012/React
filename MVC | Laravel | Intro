@@ -15,3 +15,8 @@ It works for filtering req, checking authorisation and more.
 
 Types:
 Global, Route, Group middleware 
+
+Model:
+This is php file with class
+In laravel, we have Eloquent model or Object relational mapper (ORM)
+
