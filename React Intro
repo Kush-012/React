@@ -1,0 +1,5 @@
+1. JS library for frontend applications
+2. Used for single page applications
+3. Have state and hooks for data management
+4. Component based library
+5. Uses virtual DOM for faster rendering
